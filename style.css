@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+canvas {
+  display: block;
+}
+#ship {
+  possition: absolute;
+  width: 500px;
+  margin: 5px;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  letter-spacing: 3px;
+  margin: 10px;
+}
